@@ -1,2 +1,3 @@
 silla
 mesa
+sofa
